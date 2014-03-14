@@ -1,4 +1,4 @@
 ubertool_src
 ============
-This contains the source files for www.ubertool.org
+This contains the source files for http://tao.pypest.appspot.com/
 test
